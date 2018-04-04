@@ -8,7 +8,7 @@ This work relies heavily on the Sample Tableau connector that ships with FileMak
 Overtime, I'll likely get rid of all the old code, and base it on a more modern framework.  But for now, this works.
 
 ### Installation
-First, if you plan to use OAuth, set your FileMaker Server to use AOuth for logging in. If you can't log with the regular client using AOuth, you won't be able to with this.
+First, if you plan to use OAuth, set your FileMaker Server to use AOuth for logging in. If you can't log with the regular client using OAuth, you won't be able to with this.
 
 Next drop this folder into the node-wip/public folder on FileMaker Server 16. Rename the folder to "login"
 
